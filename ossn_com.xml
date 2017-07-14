@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Homelancer Add-ons Manager</name>
+    <id>HomeTools</id>
+    <version>1.7</version>
+    <description>Adds useful addons to OSSN.</description>
+    <author>Geocadin RA</author>
+    <author_url>http://www.homelancer.com/</author_url>
+    <license>GNU General Public License, version 2</license>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+	<requires>
+		<type>ossn_version</type>
+		<version>4.0</version>
+	</requires>
+</component>
+

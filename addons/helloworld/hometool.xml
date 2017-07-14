@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hometool xmlns="http://www.homelancer.com/v/1.7">
+    <name>helloworld</name>
+    <title>Sample Hometool/Add-on package</title>
+    <version>1.7</version>
+    <description>A sample Ossn add-on package. It just displays an annoying message on Ossn site when enabled.</description>
+    <author>Geocadin RA</author>
+    <author_url>http://www.homelancer.com/</author_url>
+    <license>GNU General Public License, version 2</license>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+	<ossn_version>4.0</ossn_version>
+    <settings>
+        <message>Hello World!!!</message>
+        <anyvar>This is a setting</anyvar>
+        <lotsavars>This is an array of vars</lotsavars>
+        <lotsavars>So is this one</lotsavars>
+        <lotsavars>And another one</lotsavars>
+    </settings>
+
+
+
+</hometool>

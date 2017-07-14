@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hometool xmlns="http://www.homelancer.com/v/1.7">
+    <name>hometool</name>
+    <title>HomeTool</title>
+    <version>1.7</version>
+    <description>Base class for Hometool/Add-on package.</description>
+    <author>Geocadin RA</author>
+    <author_url>http://www.homelancer.com/</author_url>
+    <license>GNU General Public License, version 2</license>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+	<ossn_version>4.0</ossn_version>
+</hometool>
